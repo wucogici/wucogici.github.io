@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://wucogici.github.io/sitemap/sitemap_index.wucogici
+Sitemap: https://wucogici.github.io/uRt/sitemap_index.wucogici
+Sitemap: https://wucogici.github.io/yhg/sitemap_index.wucogici
+Sitemap: https://wucogici.github.io/Sfk/sitemap_index.wucogici
+Sitemap: https://wucogici.github.io/nMU/sitemap_index.wucogici
+Sitemap: https://wucogici.github.io/Ptr/sitemap_index.wucogici
+Sitemap: https://wucogici.github.io/Dcx/sitemap_index.wucogici
+Sitemap: https://wucogici.github.io/CYK/sitemap_index.wucogici
+Sitemap: https://wucogici.github.io/QSj/sitemap_index.wucogici
+Sitemap: https://wucogici.github.io/IPU/sitemap_index.wucogici
+Sitemap: https://wucogici.github.io/Wfb/sitemap_index.wucogici
+Sitemap: https://wucogici.github.io/vxa/sitemap_index.wucogici
+Sitemap: https://wucogici.github.io/hxN/sitemap_index.wucogici
+Sitemap: https://wucogici.github.io/yEQ/sitemap_index.wucogici
+Sitemap: https://wucogici.github.io/aSF/sitemap_index.wucogici
+Sitemap: https://wucogici.github.io/MpL/sitemap_index.wucogici
+Sitemap: https://wucogici.github.io/IhG/sitemap_index.wucogici
+Sitemap: https://wucogici.github.io/yMu/sitemap_index.wucogici
+Sitemap: https://wucogici.github.io/IbL/sitemap_index.wucogici
+Sitemap: https://wucogici.github.io/ZQN/sitemap_index.wucogici
+Sitemap: https://wucogici.github.io/rKV/sitemap_index.wucogici
